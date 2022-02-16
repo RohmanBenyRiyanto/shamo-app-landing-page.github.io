@@ -561,7 +561,6 @@ box-shadow: inset -21px -21px 21px #5a4eac,
     background-position: left center;
     background-repeat: no-repeat;
     background-size: cover;
-    
     z-index: -1;
     animation: animation-1 5s linear infinite;
 }
